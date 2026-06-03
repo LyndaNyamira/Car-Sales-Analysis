@@ -243,6 +243,17 @@ The Power BI dashboard includes:
 
 ---
 
+# Business Impact
+
+This dashboard could support:
+- Used-car buyers looking for value-for-money vehicles
+- Dealerships analysing pricing trends and depreciation
+- Businesses identifying regional market segments
+- Analysts exploring factors affecting vehicle market value
+- Decision-making through predictive and clustering analysis
+
+The project demonstrates how data analytics can transform large raw datasets into actionable business insights.
+
 # Limitations
 
 * The dataset was reduced to 5,000 rows for performance reasons.
