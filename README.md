@@ -203,6 +203,21 @@ How much would I spend on an automatic hatch that has done between 80,000 km and
 
 ---
 
+# Skills Demonstrated
+
+- Data Cleaning and Preprocessing
+- Data Transformation
+- Power BI Dashboard Development
+- DAX Calculations
+- Linear Regression Analysis
+- Clustering Techniques
+- Decision Tree Analysis
+- Predictive Analytics
+- Data Visualisation
+- Python Scripting
+- Exploratory Data Analysis (EDA)
+- Business Insight Generation
+
 # Tools and Technologies
 
 * Microsoft Power BI
