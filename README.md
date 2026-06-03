@@ -16,6 +16,19 @@ The project combines:
 The final result is an interactive Power BI dashboard designed to provide insights into vehicle pricing trends and market behaviour.
 
 ---
+## Dashboard Previews
+
+### Regression Analysis - Odometer vs Market Value
+![Odometer Regression](car-sales-analysis/images/regression-dashboard-odometer.png)
+
+### Regression Analysis - Manufacture Year vs Market Value
+![Manufacture Year Regression](car-sales-analysis/images/regression-dashboard-manufacture-year.png)
+
+### Clustering Analysis
+![Clustering Dashboard](car-sales-analysis/images/clustering-dashboard.png)
+
+### Decision Tree Analysis
+![Decision Tree](car-sales-analysis/images/decision-tree.png)
 
 # Dataset
 
