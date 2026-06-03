@@ -1,3 +1,9 @@
+![Power BI](https://img.shields.io/badge/Power_BI-Analytics-yellow?logo=powerbi)
+![Python](https://img.shields.io/badge/Python-Data_Processing-blue?logo=python)
+![DAX](https://img.shields.io/badge/DAX-Data_Modelling-green)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Regression_&_Clustering-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # Car Sales Market Analysis Dashboard
 
 ## Project Overview
