@@ -268,3 +268,9 @@ The project demonstrates how data analytics can transform large raw datasets int
 This project demonstrated how advanced analytics techniques in Power BI can be used to identify vehicle pricing trends, market segments, and predictive relationships within large automotive datasets.
 
 The project highlights the importance of data cleaning, transformation, and analytical modelling in supporting data-driven decision-making.
+
+## Author
+
+**Lynda Nyamira**  
+Master of Information Technology  
+Aspiring Data Analyst
